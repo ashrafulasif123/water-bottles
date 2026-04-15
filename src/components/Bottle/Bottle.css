@@ -1,0 +1,14 @@
+.bottle img{
+    width: 100%;
+    height: 300px;
+}
+
+.bottle button{
+    display: block;
+    margin: 15px auto;
+    border: none;
+    padding: 10px 15px;
+    background-color: brown;
+    color: white;
+    
+}

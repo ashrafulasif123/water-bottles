@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Thermo Steel Bottle",
+        "brand": "HydroMax",
+        "capacity": "1 Liter",
+        "price": 650,
+        "isAvailable": true,
+        "image": "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 2,
+        "name": "Eco Thermal Flask",
+        "brand": "GreenEarth",
+        "capacity": "750 ml",
+        "price": 550,
+        "isAvailable": true,
+        "image": "https://plus.unsplash.com/premium_photo-1681284939219-acfc2faa7eb8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ym90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 3,
+        "name": "Sport Bottle",
+        "brand": "FitPro",
+        "capacity": "1.2 Liter",
+        "price": 300,
+        "isAvailable": false,
+        "image": "https://images.unsplash.com/photo-1568395216634-ab1b1e848751?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 4,
+        "name": "Premium Vacuum Bottle",
+        "brand": "ThermoCool",
+        "capacity": "1 Liter",
+        "price": 900,
+        "isAvailable": true,
+        "image": "https://plus.unsplash.com/premium_photo-1664527305901-db3d4e724d15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 5,
+        "name": "Glass Bottle",
+        "brand": "PureLife",
+        "capacity": "500 ml",
+        "price": 350,
+        "isAvailable": false,
+        "image": "https://plus.unsplash.com/premium_photo-1681154819686-43fcc4dc4df3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fHN0YWlubGVzcyUyMHN0ZWVsJTIwYm90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 6,
+        "name": "Mountain Flask Pro",
+        "brand": "Alpine",
+        "capacity": "1 Liter",
+        "price": 720,
+        "isAvailable": true,
+        "image": "https://images.unsplash.com/photo-1616170919057-5946e5f0c9f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fHN0YWlubGVzcyUyMHN0ZWVsJTIwYm90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 7,
+        "name": "Urban Steel Bottle",
+        "brand": "CityHydrate",
+        "capacity": "600 ml",
+        "price": 480,
+        "isAvailable": true,
+        "image": "https://images.unsplash.com/photo-1679430674745-fe8a94343f7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fHN0YWlubGVzcyUyMHN0ZWVsJTIwYm90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 8,
+        "name": "Kids Sipper Bottle",
+        "brand": "FunSip",
+        "capacity": "500 ml",
+        "price": 250,
+        "isAvailable": false,
+        "image": "https://images.unsplash.com/photo-1604404896684-19adc506af81?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fHN0YWlubGVzcyUyMHN0ZWVsJTIwYm90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 9,
+        "name": "Elite Vacuum Bottle",
+        "brand": "ThermoCool",
+        "capacity": "1.5 Liter",
+        "price": 1100,
+        "isAvailable": true,
+        "image": "https://images.unsplash.com/photo-1574115821038-38b3d504cfde?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODZ8fHN0YWlubGVzcyUyMHN0ZWVsJTIwYm90dGxlfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 10,
+        "name": "Clear Glass Bottle",
+        "brand": "PureLife",
+        "capacity": "700 ml",
+        "price": 380,
+        "isAvailable": false,
+        "image": "https://images.unsplash.com/photo-1761846786593-80de9fe31ce3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fHN0YWlubGVzcyUyMHN0ZWVsJTIwYm90dGxlfGVufDB8fDB8fHww"
+    }
+]
