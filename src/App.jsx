@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <h1>Water Bottle</h1>
-      <Suspense fallback={<p>Bottles loading...</p>}>
+      <Suspense fallback={<p>Bottles are Loading...</p>}>
         <Bottles bottlePromise={bottlePromise}></Bottles>
       </Suspense>
     </>
